@@ -1,0 +1,18 @@
+h3 {
+    color: rgb(114, 110, 22);
+}
+
+p {
+    color: rgb(105, 151, 62);
+}
+
+button {
+    background-color: rgb(146, 194, 101);
+    padding: 15px;
+    border: none;
+    border-radius: 20px;
+}
+button:hover {
+    background-color: rgb(139, 161, 74);
+    cursor: pointer;
+}
